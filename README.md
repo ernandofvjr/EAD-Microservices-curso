@@ -1,3 +1,9 @@
-# EAD-Microservices-curso
+# Decoder Project - Curso de Microservices
 
-->> iniciar um microservice pelo maven : mvn spring-boot:run
+## Run
+
+Iniciar um microservice utilizando o maven.
+
+```bash
+mvn spring-boot:run
+```
